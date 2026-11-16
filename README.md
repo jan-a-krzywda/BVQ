@@ -7,6 +7,8 @@ procurement (buyer–vendor agreed test suite), with focus on spin-qubit devices
 
 - [SOURCES.md](SOURCES.md): curated links to programs (DARPA QB/QBI, EuroHPC), standards,
   reviews, protocols, spin-qubit literature and software tools. Papers are linked, not stored.
+- [drift_study/](drift_study/drift_benchmarking.md): why standard benchmarks miss drift, and how
+  to design time-resolved acceptance tests for an 18-qubit spin-qubit device.
 
 ## Planned
 
